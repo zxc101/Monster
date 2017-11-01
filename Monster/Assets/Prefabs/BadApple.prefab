@@ -90,8 +90,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  pers: {fileID: 1455212862753408, guid: 310e0d56d9ef25a46974f591f95980d2, type: 2}
-  isDamaging: 1
   healthPoints: 5
 --- !u!212 &212236532934322664
 SpriteRenderer:
